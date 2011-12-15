@@ -10,7 +10,6 @@
  *
  * PHP 5
  *
- * @filesource
  * @version             $Revision: 2 $
  * @modifiedby          $LastChangedBy: coderjoe@coderjoe.net $
  * @lastmodified        $Date: 2008-02-26 23:11:15 -0500 (Tue, 26 Feb 2008) $
@@ -19,7 +18,7 @@
  */
 
 /**
- * Core base class for the various Geocoders
+ * Core base class for the various Geocoderes
  */
 abstract class BaseGeocode
 {
