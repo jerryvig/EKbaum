@@ -14,7 +14,7 @@
  * @version             $Revision: 4 $
  * @modifiedby          $LastChangedBy: coderjoe@coderjoe.net $
  * @lastmodified        $Date: 2009-08-31 09:58:02 -0400 (Mon, 31 Aug 2009) $
- * @license             http://www.opensource.org/licenses/mit-license.php The MIT License
+ * @license             http://www.opensource.org/licenses/mit-license.php The GNU license.
  *
  */
 
