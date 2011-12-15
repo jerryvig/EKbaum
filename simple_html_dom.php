@@ -25,7 +25,7 @@
  *  last transfer or curl_exec, and we will parse that and use it in preference to any other method of charset detection.
  *
  * Licensed under The MIT License
- * Redistributions of files must retain the above copyright notice.
+ * Redistributions of files must retain the abo
  *
  * @author S.C. Chen <me578022@gmail.com>
  * @author John Schlick
